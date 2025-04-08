@@ -32,7 +32,7 @@ No configuration or user interaction is required - it works immediately after in
 
 ## License
 
-MIT License - see the license section in [PixelDrainBypass.js](https://github.com/nazdridoy/PixelDrainBypass/blob/main/PixelDrainBypass.js) for details.
+MIT License - see [LICENSE](LICENSE) for details
 
 ## Credits
 
