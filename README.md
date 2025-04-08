@@ -1,4 +1,4 @@
-# PixelDrainBypass
+# Pixeldrain Bypass
 
 A userscript that automatically redirects PixelDrain URLs to a faster mirror. It intercepts requests to pixeldrain.com and redirects them to an alternative server for faster downloads.
 
@@ -22,7 +22,7 @@ The script detects when you visit a pixeldrain.com file URL (format: `https://pi
 
 2. Install the script:
    - [Install from Greasy Fork](https://greasyfork.org/en/scripts/532142-pixeldrain-bypass) (Recommended)
-   - Create a new script in your userscript manager and copy the contents of [`PixelDrainBypass.js`](https://github.com/nazdridoy/PixelDrainBypass/blob/main/PixelDrainBypass.js)
+   - Create a new script in your userscript manager and copy the contents of [`PixelDrainBypass.js`](https://github.com/nazdridoy/pixeldrain-bypass/blob/main/PixelDrainBypass.js)
 
 ## Usage
 
@@ -41,5 +41,5 @@ Created by [nazdridoy](https://github.com/nazdridoy)
 ## Support
 
 If you encounter any issues or have suggestions:
-- [Open an issue](https://github.com/nazdridoy/PixelDrainBypass/issues)
-- [Submit a pull request](https://github.com/nazdridoy/PixelDrainBypass/pulls)
+- [Open an issue](https://github.com/nazdridoy/pixeldrain-bypass/issues)
+- [Submit a pull request](https://github.com/nazdridoy/pixeldrain-bypass/pulls)
