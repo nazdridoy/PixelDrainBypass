@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         PixelDrain Bypass
+// @name         Pixeldrain Bypass
 // @namespace    https://github.com/nazdridoy
-// @version      1.0.0
+// @version      2.0.0
 // @description  Automatically redirects PixelDrain URLs to a faster mirror
 // @author       nazdridoy
 // @license      MIT
@@ -9,8 +9,8 @@
 // @icon         https://pixeldrain.com/favicon.ico
 // @grant        none
 // @run-at       document-start
-// @homepageURL  https://github.com/nazdridoy/PixelDrainBypass
-// @supportURL   https://github.com/nazdridoy/PixelDrainBypass/issues
+// @homepageURL  https://github.com/nazdridoy/pixeldrain-bypass
+// @supportURL   https://github.com/nazdridoy/pixeldrain-bypass/issues
 // ==/UserScript==
 
 /* 
