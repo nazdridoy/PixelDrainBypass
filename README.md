@@ -21,8 +21,8 @@ The script detects when you visit a pixeldrain.com file URL (format: `https://pi
    - [Violentmonkey](https://violentmonkey.github.io/)
 
 2. Install the script:
+   - [Install from Greasy Fork](https://greasyfork.org/en/scripts/532142-pixeldrain-bypass) (Recommended)
    - Create a new script in your userscript manager and copy the contents of [`PixelDrainBypass.js`](https://github.com/nazdridoy/PixelDrainBypass/blob/main/PixelDrainBypass.js)
-   - Or install directly from the repository (if hosted on a userscript site)
 
 ## Usage
 
