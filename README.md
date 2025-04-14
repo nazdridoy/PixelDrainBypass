@@ -2,6 +2,9 @@
 
 A userscript that automatically redirects PixelDrain URLs to a faster mirror. It intercepts requests to pixeldrain.com and redirects them to an alternative server for faster downloads.
 
+[![Install Pixeldrain Bypass](https://img.shields.io/badge/Install-Pixeldrain%20Bypass-brightgreen?style=for-the-badge)](https://greasyfork.org/en/scripts/532142-pixeldrain-bypass)
+
+
 ## Features
 
 - ⚡ Automatic redirection to a faster mirror
